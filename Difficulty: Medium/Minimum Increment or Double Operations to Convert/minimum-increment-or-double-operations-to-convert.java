@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution { 
     public int countMinOperations(int arr[]) { 
         Arrays.sort(arr);
